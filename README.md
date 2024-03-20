@@ -104,6 +104,20 @@ Docker Containerization
 
 ![testing 2](https://github.com/Shahanaz-M-Meera/Flask-api-cricketteam/assets/163439731/d3d5edde-e032-404d-892d-fb9ec5afec8d)
 
+## How To Use
+
+1. Clone Repository:
+
+   `git clone https://github.com/Shahanaz-M-Meera/Flask-api-cricketteam.git`
+
+2. Setup Docker Environment
+3. Run Docker Container Locally:
+
+   `sudo docker run -p 5000:5000 -it cricketapi-image`
+   
+5. Access API Endpoints:
+
+   -  Open a browser and visit http://localhost:5000/cricketer-team?name=Ricky%20Ponting
 
 ## Conclusion
 
